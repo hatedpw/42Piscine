@@ -1,8 +1,12 @@
 # 42Piscine
-My code from 42 ADEL Piscine. 
+My code from 42 ADEL Piscine. https://www.42adel.org.au/
+
+The Piscine goes for 28 days, you jump in and learn with your peers learning how to code until your hearts content. The Piscine is designed in a way to be able to test if the 42 learning model is right for you and that you have what it takes.
+
+During the pool, you will discover the basics of programming, from scratch. There are no prerequisites of any kind: you do not need prior experience, you do not need a diploma, as long as you are over 16 years of age. The pool is extremely stressful, challenging, frustrating, fun, and very, very intense. Don't expect a break on weekends.
+
 
 Before i started the piscine i had limited knowledge of coding besides the general structure and concepts from watching tons of different programming videos. 
-
 I had some experience with python but nothing fancy just simple youtube tutorial stuff. 
 
 I struggled so much starting c00 but once i got the structure concept in my head of void functions and void main i was able to smash through the tasks.
