@@ -1,0 +1,5 @@
+Credentials cache: API:734C5857-AD64-4BD5-A5E5-2283E7E08A76
+        Principal: knicks@42ADEL.ORG.AU
+
+  Issued                Expires               Principal
+Jun 23 10:44:13 2021  Jun 23 20:44:06 2021  krbtgt/42ADEL.ORG.AU@42ADEL.ORG.AU
