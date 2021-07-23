@@ -23,8 +23,45 @@ C03. 2 attempts. Final grade 100%
 ![image](https://user-images.githubusercontent.com/87857751/126775524-d9ca3980-5572-43c2-b0c0-8c848e3926d9.png)
 ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK
 
-C04. 2 attempts. Final grade 85%
+C04. 1 attempt. Final grade 85%
 ![image](https://user-images.githubusercontent.com/87857751/126775618-bd96c66a-02ce-4263-b022-6a32ab451b5a.png)
 ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: Nothing turned in
 
-C05. 2 attempts. Final grade 75%
+C05. 2 attempts. Final grade 60%
+![image](https://user-images.githubusercontent.com/87857751/126776048-7c690c50-7ed6-4fcb-aba1-6efb1b7249c6.png)
+ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: Does not compile | ex08: Nothing turned in
+
+C06. 1 attempt. Final grade 70%
+![image](https://user-images.githubusercontent.com/87857751/126776488-d36a26b4-b945-4d98-a315-bacaa217e735.png)
+ex00: OK | ex01: OK | ex02: OK | ex03: Does not compile
+
+C07. 2 attempts. Final grade 60%
+![image](https://user-images.githubusercontent.com/87857751/126776570-9e7edea2-4e17-47e7-8ab8-06cfe30a4ddd.png)
+ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: Nothing turned in | ex05: Nothing turned in
+
+C08. 1 attempt. Final grade 70%
+![image](https://user-images.githubusercontent.com/87857751/126776618-b7816960-8c25-4b38-8bec-76efebcfbb1f.png)
+ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: Nothing turned in
+
+C09. 2 attempts. Final grade 100%
+![image](https://user-images.githubusercontent.com/87857751/126776669-c4a2cc11-539a-4488-acd1-34d3f4055503.png)
+ex00: OK | ex01: OK | ex02: OK
+
+Rush00(First Group Project). 1 attempt. Final grade 120%
+![image](https://user-images.githubusercontent.com/87857751/126776775-68994548-a6da-4afb-be8b-a90e32fe273a.png)
+
+Rush01. 1 attempts. Final grade 0%
+Sadly our code did not pass the syntax check as we submitted in the final hour. But we were able to pass all the test cases and wouldve gotten 80% if not for the syntax failing!!!. Better luck next time! 
+![image](https://user-images.githubusercontent.com/87857751/126776998-3950072e-0464-47fc-85df-91d8c457582a.png)
+
+Shell00. 2 attempts. Final grade 100%
+![image](https://user-images.githubusercontent.com/87857751/126777074-bbb2ef96-9cc6-450d-be4c-10a16b3eca83.png)
+ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: OK | ex08: OK | ex09: OK
+
+Shell01. 2 attempts. Final grade 70%
+![image](https://user-images.githubusercontent.com/87857751/126777123-b41b632e-e641-4eb5-9355-50be80278a2d.png)
+ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: Nothing turned in | ex08: Nothing turned in
+
+I didnt do very well in the exams, but i atleast passed them. I really wish i practiced more for these but with all the assignments  it was hard to find time. 
+![image](https://user-images.githubusercontent.com/87857751/126777399-06ace361-1fc2-4ef6-bbbe-808496f77e04.png)
+
