@@ -63,5 +63,6 @@ Shell01. 2 attempts. Final grade 70%
 ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex07: Nothing turned in | ex08: Nothing turned in
 
 I didnt do very well in the exams, but i atleast passed them. I really wish i practiced more for these but with all the assignments  it was hard to find time. 
+
 ![image](https://user-images.githubusercontent.com/87857751/126777399-06ace361-1fc2-4ef6-bbbe-808496f77e04.png)
 
