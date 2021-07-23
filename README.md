@@ -55,10 +55,12 @@ Rush00(First Group Project). 1 attempt. Final grade 120%
 ![image](https://user-images.githubusercontent.com/87857751/126776775-68994548-a6da-4afb-be8b-a90e32fe273a.png)
 
 Rush01. 1 attempt. Final grade 0%
+
 Sadly our code did not pass the syntax check as we submitted in the final hour. But we were able to pass all the test cases and wouldve gotten 80% if not for the syntax failing!!!. Better luck next time! 
 ![image](https://user-images.githubusercontent.com/87857751/126776998-3950072e-0464-47fc-85df-91d8c457582a.png)
 
 Rush02. 1 Attempt. Final grade 0%
+
 We created a few of the files required for the task but ultimately decided as a group it was better to abandon this project due to time and knowledge constraints. 
 ![image](https://user-images.githubusercontent.com/87857751/126778999-9050cbf3-8b3e-42bd-92d5-955fae818a1e.png)
 
