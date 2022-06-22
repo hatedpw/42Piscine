@@ -1,5 +1,5 @@
 # 42Piscine
-My code from 42 ADEL Piscine. https://www.42adel.org.au/
+My code from 42 Piscine. https://www.42network.org/
 
 The Piscine goes for 28 days, you jump in and learn with your peers learning how to code until your hearts content. The Piscine is designed in a way to be able to test if the 42 learning model is right for you and that you have what it takes.
 
